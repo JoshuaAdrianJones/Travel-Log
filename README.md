@@ -44,8 +44,8 @@ Inspired by Dylan Egan to log past and future travels
 ### 2019
 
 * Valencia
-
+* Boston, Ma
+* Bristol, UK  (5th Year Anniversary
 
 ## Future
 
-Boston, Ma
