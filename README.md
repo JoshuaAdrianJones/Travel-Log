@@ -26,26 +26,34 @@ Inspired by Dylan Egan to log past and future travels
 * Bratislava
 * Vienna
 
-
-### 2017 
+### 2017
 
 * Lisbon
 * Porto
 * Prague
 
-### 2018 
+### 2018
 
 * Nice
 * Monaco
 * Izmir
 * Berlin
 
-
 ### 2019
 
-* Valencia
+* Valencia, Esp
 * Boston, Ma
-* Bristol, UK  (5th Year Anniversary
+* Bristol, UK  (5th Year Anniversary)
 
 ## Future
 
+* Chicago
+* London
+* Poland
+* Geneva
+* Paris
+* New York
+* Australia
+* Rome
+* Florence
+* Naples
