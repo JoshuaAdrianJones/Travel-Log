@@ -44,10 +44,15 @@ Inspired by Dylan Egan to log past and future travels
 * Valencia, Esp
 * Boston, Ma
 * Bristol, UK  (5th Year Anniversary)
+* Denver, Co
+* Boulder, Co
+
+### 2020
+
+* Chicago
 
 ## Future
 
-* Chicago
 * London
 * Poland
 * Geneva
