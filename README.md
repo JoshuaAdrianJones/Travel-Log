@@ -50,10 +50,9 @@ Inspired by Dylan Egan to log past and future travels
 ### 2020
 
 * Chicago
-
+* Izmir
 ## Future
 
-* London
 * Poland
 * Geneva
 * Paris
