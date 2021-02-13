@@ -1,6 +1,6 @@
 # Travel
 
-Inspired by Dylan Egan to log past and future travels
+Inspired by Dylan Egan https://github.com/dylanegan/travel to log past and future travels
 
 <img src="map.png">
 
