@@ -44,13 +44,20 @@ Inspired by Dylan Egan https://github.com/dylanegan/travel to log past and futur
 * Valencia, Esp
 * Boston, Ma
 * Bristol, UK  (5th Year Anniversary)
-* Denver, Co
-* Boulder, Co
+* Denver, Co, USA
+* Boulder, Co, USA
 
 ### 2020
 
-* Chicago
-* Izmir
+* Chicago, Il, USA
+* Izmir, TR
+
+### 2021 
+
+* September-October Mykonos, GR
+* October London team meet up
+* October Edinburgh, Scotland
+
 ## Future
 
 * Poland
