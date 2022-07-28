@@ -8,61 +8,69 @@ Inspired by Dylan Egan https://github.com/dylanegan/travel to log past and futur
 
 ### 2014
 
-* Amsterdam
+* Amsterdam, NED
 
 ### 2015
 
-* Olu deniz
-* Munich
-* Salzburg
-* Brugge
+* Olu deniz, Turk
+* Munich, GER
+* Salzburg, AUS
+* Brugge, BEL
 
 ### 2016
 
-* Barcelona
-* Palma de mallorca
-* Tenerife
-* Budapest
-* Bratislava
-* Vienna
+* Barcelona, ESP
+* Palma de mallorca, ESP
+* Tenerife, ESP
+* Budapest, HUN
+* Bratislava, Slovakia
+* Vienna, AUS
 
 ### 2017
 
-* Lisbon
-* Porto
-* Prague
+* Lisbon, PORT
+* Porto, PORT
+* Prague, Czech
 
 ### 2018
 
-* Nice
-* Monaco
-* Izmir
-* Berlin
+* Nice, FR
+* Monaco, FR
+* Izmir, Turkey
+* Berlin, GER
 
 ### 2019
 
 * Valencia, Esp
 * Boston, Ma
 * Bristol, UK  (5th Year Anniversary)
-* Denver, Co, USA
+* Denver, Co, USA company meetup
 * Boulder, Co, USA
 
 ### 2020
 
-* Chicago, Il, USA
+* Chicago, Il, USA, company meetup
 * Izmir, TR
 
 ### 2021 
 
 * September-October Mykonos, GR
-* October London team meet up
+* October London team meetup
 * October Edinburgh, Scotland
+
+### 2022
+* Porto, Portugal company meet up
+* Disney world, Orlando Florida USA
+* Lanzarote, Canary Islands, Spain
 
 ## Future
 
 * Poland
 * Geneva
+* Zurich
+* Bern
 * Paris
+* Marseilles
 * New York
 * Australia
 * Rome
