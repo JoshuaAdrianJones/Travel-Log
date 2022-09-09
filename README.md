@@ -55,7 +55,7 @@ Inspired by Dylan Egan https://github.com/dylanegan/travel to log past and futur
 
 ### 2021 
 
-* September-October Mykonos, GR
+* September-October Mykonos, GR Team meet up
 * October London team meetup
 * October Edinburgh, Scotland
 
