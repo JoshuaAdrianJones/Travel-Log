@@ -46,6 +46,7 @@ Inspired by Dylan Egan https://github.com/dylanegan/travel to log past and futur
 * Bristol, UK  (5th Year Anniversary)
 * Denver, Co, USA company meetup
 * Boulder, Co, USA
+* Amsterdam, NL 
 
 ### 2020
 
