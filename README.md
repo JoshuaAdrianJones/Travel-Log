@@ -64,6 +64,11 @@ Inspired by Dylan Egan https://github.com/dylanegan/travel to log past and futur
 * Disney world, Orlando Florida USA
 * Lanzarote, Canary Islands, Spain
 
+### 2022 plans
+
+* Germany - Austria - North Italy
+
+
 ## Future
 
 * Poland
