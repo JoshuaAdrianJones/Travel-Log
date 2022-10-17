@@ -67,7 +67,7 @@ Inspired by Dylan Egan https://github.com/dylanegan/travel to log past and futur
 ### 2022 plans
 
 * Germany - Austria - North Italy
-
+* Nov-Dec 2022 Vienna trip with Work
 
 ## Future
 
