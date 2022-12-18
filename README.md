@@ -63,18 +63,12 @@ Inspired by Dylan Egan https://github.com/dylanegan/travel to log past and futur
 * Porto, Portugal company meet up
 * Disney world, Orlando Florida USA
 * Lanzarote, Canary Islands, Spain
-
-### 2022 plans
-
-* Germany - Austria - North Italy
-* Nov-Dec 2022 Vienna trip with Work
+* November, Zurich and Lucern, Hiked Mount Gigi, Switzerland
+* November, Austria, company meetup
 
 ## Future
 
 * Poland
-* Geneva
-* Zurich
-* Bern
 * Paris
 * Marseilles
 * New York
@@ -82,3 +76,4 @@ Inspired by Dylan Egan https://github.com/dylanegan/travel to log past and futur
 * Rome
 * Florence
 * Naples
+
