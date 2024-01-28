@@ -65,6 +65,41 @@ Inspired by Dylan Egan https://github.com/dylanegan/travel to log past and futur
 * November, Zurich and Lucern, Hiked Mount Gigi, Switzerland
 * November, Austria, company meetup
 
+# 2023
+
+* Seattle, Portland, April Amazing vacation
+
+We took the grey hound bus to Portlands, visited the Arboretum (trees!), had lots of amazing food, coffee, craft beer.
+
+* Valencia, June
+
+Work trip with the team + a few days with Chloe, had amazing Ramen and a great bar called the artist, the guy was scottish and looked like sean connery! cocktails came with gummy bears.
+
+* Fuerteventura, August
+
+all inclusive sit on the beach holiday!
+Electric scooters down the beach front!
+
+* Krakow, October
+
+Visited with Chloe's brother and cousin and their partners, which was nice, usually we travel alone.
+Very fun place, great great food, really cheap.
+Extremely somber and sad visit to the concentration camps.
+
+* New york, November
+
+Actually this started in London and we saw Jessie Ware and ate at La mia mamma, which was out of this world.
+NYC was awesome, museums, food (Ivan Ramen), thanksgiving day parade, shopping.
+
+* Gran Canaria, December
+
+Very chill work meet up!
+
+
+# 2024
+
+* [planned] Toky and Seoul!
+
 ## Future
 
 * Paris
