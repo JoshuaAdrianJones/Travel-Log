@@ -4,20 +4,19 @@ Inspired by Dylan Egan https://github.com/dylanegan/travel to log past and futur
 
 <img src="map.png">
 
-## Past
 
-### 2014
+# 2014
 
 * Amsterdam, NED
 
-### 2015
+# 2015
 
 * Olu deniz, Turk
 * Munich, GER
 * Salzburg, AUS
 * Brugge, BEL
 
-### 2016
+# 2016
 
 * Barcelona, ESP
 * Palma de mallorca, ESP
@@ -26,20 +25,20 @@ Inspired by Dylan Egan https://github.com/dylanegan/travel to log past and futur
 * Bratislava, Slovakia
 * Vienna, AUS
 
-### 2017
+# 2017
 
 * Lisbon, PORT
 * Porto, PORT
 * Prague, Czech
 
-### 2018
+# 2018
 
 * Nice, FR
 * Monaco, FR
 * Izmir, Turkey
 * Berlin, GER
 
-### 2019
+# 2019
 
 * Valencia, Esp
 * Boston, Ma
@@ -48,18 +47,18 @@ Inspired by Dylan Egan https://github.com/dylanegan/travel to log past and futur
 * Boulder, Co, USA
 * Amsterdam, NL 
 
-### 2020
+# 2020
 
 * Chicago, Il, USA, company meetup
 * Izmir, TR
 
-### 2021 
+# 2021
 
 * September-October Mykonos, GR Team meet up
 * October London team meetup
 * October Edinburgh, Scotland
 
-### 2022
+# 2022
 * Porto, Portugal company meet up
 * Disney world, Orlando Florida USA
 * Lanzarote, Canary Islands, Spain
@@ -68,12 +67,9 @@ Inspired by Dylan Egan https://github.com/dylanegan/travel to log past and futur
 
 ## Future
 
-* Poland
 * Paris
 * Marseilles
-* New York
 * Australia
 * Rome
 * Florence
 * Naples
-
