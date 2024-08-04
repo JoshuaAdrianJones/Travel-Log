@@ -97,7 +97,7 @@ Very chill work meet up!
 # 2024
 * Geneva
 * Disneyland Paris and the Louvre
-* [planned] Toky and Seoul!
+* Sarigerme, Turkey
 
 ## Future
 
