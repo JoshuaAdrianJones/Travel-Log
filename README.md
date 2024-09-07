@@ -97,10 +97,12 @@ Very chill work meet up!
 # 2024
 * Geneva
 * Disneyland Paris and the Louvre
+* Edinburgh
 * Thessaloniki, Greece
 * Sarigerme, Turkey
 * Malta (Valleta, Sliema, Mdina)
 * Amsterdam
+* San Fransisco
 
 ## Future
 
