@@ -106,11 +106,11 @@ Very chill work meet up!
 
 # 2025
 
-Boston, USA
-Stockholm, Sweden
-Antalya, Turkey
-Rome 
-Malta
+* Boston, USA
+* Stockholm, Sweden
+* Antalya, Turkey
+* Rome, Italy
+* Malta (Gozo)
 
 
 ## Future
