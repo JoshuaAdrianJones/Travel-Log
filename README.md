@@ -117,9 +117,7 @@ Malta
 
 * Marseilles
 * Australia
-* Rome
 * Florence
 * Naples
-* Califonia
 * Canada
 * Dubrovnik
