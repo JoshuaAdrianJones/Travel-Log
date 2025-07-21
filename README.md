@@ -104,6 +104,15 @@ Very chill work meet up!
 * Amsterdam
 * San Fransisco
 
+# 2025
+
+Boston, USA
+Stockholm, Sweden
+Antalya, Turkey
+Rome 
+Malta
+
+
 ## Future
 
 * Marseilles
