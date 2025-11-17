@@ -111,6 +111,7 @@ Very chill work meet up!
 * Antalya, Turkey
 * Rome, Italy
 * Malta (Gozo)
+* Marrakesh, Morocco
 
 
 ## Future
